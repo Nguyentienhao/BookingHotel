@@ -1,0 +1,5 @@
+- yarn install
+- client: yarn start
+- admin: yarn start
+- server: yarn start
+
